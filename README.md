@@ -7,5 +7,5 @@ La base de datos a utilizar será ‘ecommerce’, colección ‘productos’.
 
 
 >> Notas:
-- Utilizar la dependencia Mongoose para interactuar con la base de datos
+- Utilizar la dependencia Mongoose para interactuar con la base de datos.
 
